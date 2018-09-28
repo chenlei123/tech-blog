@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 陈磊
-subtitle: 个人博客
-author: 陈磊
+title: chenlei123
+subtitle: 技术空间
+author: wilelm
 language:
 timezone:
 
@@ -25,11 +25,12 @@ SEOTitle: 陈磊 | Blog
 email: select603@gmail.com
 description: ""
 keyword: ""
-header-img: http://ozilwgpje.bkt.clouddn.com/scenery/car.jpg?imageslim
+# header-img: http://ozilwgpje.bkt.clouddn.com/scenery/car.jpg?imageslim
+header-img: /img/signature/sky-nature-blue-lanterns-night-sea.jpg
 article-img: /img/article_header/article_bg.jpg
 404-img: /img/header_img/404.png
 signature: false #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature-img: img/signature/sky-nature-blue-lanterns-night-sea.jpg
 
 
 # SNS settings
@@ -216,6 +217,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
-  branch: gh-pages
+  repository: https://github.com/chenlei123/tech-blog.git
+  branch: master
   message: Update CNAME
