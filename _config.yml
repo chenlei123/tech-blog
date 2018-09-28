@@ -217,6 +217,5 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/chenlei123/tech-blog.git
+  repository: git@github.com:chenlei123/tech-blog-site.git
   branch: master
-  message: Update CNAME
